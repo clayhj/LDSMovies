@@ -1,6 +1,25 @@
-﻿body {
+﻿th {
+    color: #000000;
+    background-color: peru;
+}
+
+nav {
+    background-color: aqua;
+}
+
+body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-color: burlywood;
+}
+
+td {
+    background-color: bisque;
+    color: black;
+}
+
+a {
+    color:blue;
 }
 
 /* Wrapping element */
